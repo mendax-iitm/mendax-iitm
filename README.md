@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
-<!--
-**mendax-iitm/mendax-iitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am currently working in Coal India Limited as Electrical Engineering involved in planning of Washeries and Electrical Design. With interest in Programming I am also pursuing B.Sc. in Data Science and Programming from IIT Madras which I am enjoying very much. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔨 Experience 
+
+🐍 Python Stack
+- Machine Learning: PyTorch, Scikit-learn
+- Data Science: Pandas, Numpy
+- Demo: Matplotlib, Seaborn
+- Data Structures
+
+🕸 Web Development
+- HTML
+- CSS
+- JavaScript
+
+Development
+- Flask
+
