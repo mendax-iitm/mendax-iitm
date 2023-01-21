@@ -19,4 +19,5 @@ I am currently working in Coal India Limited as Electrical Engineering involved 
 
 Development
 - Flask
+- Vue
 
