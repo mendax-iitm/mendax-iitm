@@ -21,3 +21,8 @@ Development
 - Flask
 - Vue
 
+<p align="center">
+<a href="https://github.com/mendax-iitm">
+  <img title="My streak stats" alt="Mendax's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mendax-iitm&theme=gruvbox"/>
+</a>
+</p>
