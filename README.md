@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
 <p align="center">
-Electrical Engineer @ Coal India | Data Science Graduate | Founder @ Crafted Vacays
+Electrical Engineer @ Coal India | Data Science Graduate | Contributor @ Crafted Vacays
 </p>
 
 ---
